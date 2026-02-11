@@ -52,3 +52,4 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex
